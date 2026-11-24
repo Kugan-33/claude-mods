@@ -1,0 +1,12 @@
+{
+  "name": "mods-kugan",
+  "owner": { "name": "Kugan" },
+  "description": "Catalogue local des mods Claude Code de Kugan.",
+  "plugins": [
+    {
+      "name": "pins-sous-la-neige",
+      "source": "./pins-sous-la-neige",
+      "description": "Fond animé Snow Pines sans flou, réglable avec /neige."
+    }
+  ]
+}

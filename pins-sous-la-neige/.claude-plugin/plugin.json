@@ -1,0 +1,15 @@
+{
+  "name": "pins-sous-la-neige",
+  "version": "0.1.0",
+  "description": "Fond animé Snow Pines (forêt de pins sous la neige) avec un verre réglable, sans flou par défaut. Commande /neige.",
+  "author": { "name": "Kugan" },
+  "license": "Apache-2.0",
+  "userConfig": {
+    "commande": {
+      "type": "string",
+      "title": "Nom de la commande",
+      "description": "Nom de la commande slash qui règle le fond, sans la barre oblique (neige par défaut).",
+      "default": "neige"
+    }
+  }
+}
